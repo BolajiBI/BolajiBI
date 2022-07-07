@@ -1,7 +1,7 @@
 ### Hi there 😃
 
-👋 I'm Bolaji. I do Data Analytics, Business Intelligence & Data Visualisation.
-🔭 Currently, I do more of Power BI Development and Reporting
+- 👋 I'm Bolaji. I do Data Analytics, Business Intelligence & Data Visualisation.
+- 🔭 Currently, I do more of Power BI Development and Reporting
 🌱 I’m also expanding my skillset on working Cloud Data Platforms like Azure, Synapse Analytics, Azure Data Factory.
 👯 Looking to collaborate on projects involving BI/DW with Power BI and the Microsoft Data Platform.
 💬 You can ask me about anyting data, Business Intelligence and Reporting
