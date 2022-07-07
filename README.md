@@ -2,10 +2,10 @@
 
 - 👋 I'm Bolaji. I do Data Analytics, Business Intelligence & Data Visualisation.
 - 🔭 Currently, I do more of Power BI Development and Reporting
-🌱 I’m also expanding my skillset on working Cloud Data Platforms like Azure, Synapse Analytics, Azure Data Factory.
-👯 Looking to collaborate on projects involving BI/DW with Power BI and the Microsoft Data Platform.
-💬 You can ask me about anyting data, Business Intelligence and Reporting
-📫 Connect with me [![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][https://www.twitter.com/BolajiO_]
+- 🌱 I’m also expanding my skillset on working Cloud Data Platforms like Azure, Synapse Analytics, Azure Data Factory.
+- 👯 Looking to collaborate on projects involving BI/DW with Power BI and the Microsoft Data Platform.
+- 💬 You can ask me about anyting data, Business Intelligence and Reporting
+- 📫 Connect with me [![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][https://www.twitter.com/BolajiO_]
 
 <!--
 **BolajiBI/BolajiBI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
