@@ -6,8 +6,7 @@
 - 👯 Looking to collaborate on projects involving BI/DW with Power BI and the Microsoft Data Platform.
 - 💬 You can ask me about anyting data, Business Intelligence and Reporting
 - 📫 Connect with me
-   ![twitter](https://www.twitter.com/BolajiO_ (Twitter))[3]
-  [3]: https://www.twitter.com/BolajiO_
+   [![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))](https://www.twitter.com/BolajiO_)
 
 <!--
 **BolajiBI/BolajiBI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
