@@ -5,7 +5,8 @@
 - 🌱 I’m also expanding my skillset on working Cloud Data Platforms like Azure, Synapse Analytics, Azure Data Factory.
 - 👯 Looking to collaborate on projects involving BI/DW with Power BI and the Microsoft Data Platform.
 - 💬 You can ask me about anyting data, Business Intelligence and Reporting
-- 📫 Connect with me [![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
+- 📫 Connect with me
+   ![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))[3]
   [3]: https://www.twitter.com/BolajiO_
 
 <!--
@@ -22,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
